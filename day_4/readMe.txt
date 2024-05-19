@@ -1,1 +1,1 @@
-In this day we have done the seaborn lib for visualized the data
+In this day we have done the seaborn lib for visualized the data.
